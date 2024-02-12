@@ -11,7 +11,7 @@ int main()
     cin >> b;
     // hasil = a - b;
     // hasil = a * b;
-    hasil = a % b;
+    // hasil = a % b;
     cout << hasil << endl;
     return 0;
 }
